@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A9FE72DC-A04A-4D38-A0D6-A663907C3925"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F6F9750-3FBE-4BE7-A920-973F74B86199"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/ViewModel/RoomsAvailabilityViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "loadRoomsList(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25DBDA2D-F784-4D92-85BE-E3ECD7E451DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/View/PeopleDirectoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "422C82CB-5095-419E-8B96-CE8E039CC713"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/View/PeopleDirectoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ECDE4D0-8C8F-4157-8CBD-BA00B1663A12"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/View/People/PeopleDirectoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "PeopleDirectoryViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7ECDE4D0-8C8F-4157-8CBD-BA00B1663A12 - 2463104c3e822e89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryApp.PeopleDirectoryViewController.jobTitleLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddulakshmikeerthana/Documents/InTerView/DirectoryApp/DirectoryApp/View/People/PeopleDirectoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7ECDE4D0-8C8F-4157-8CBD-BA00B1663A12 - 85bf5b91a6984285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryApp.PeopleDirectoryViewController.jobTitleLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddulakshmikeerthana/Documents/InTerView/DirectoryApp/DirectoryApp/View/People/PeopleDirectoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "7ECDE4D0-8C8F-4157-8CBD-BA00B1663A12 - ec4cb727ea7c4a65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryApp.PeopleDirectoryViewController.jobTitleLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddulakshmikeerthana/Documents/InTerView/DirectoryApp/DirectoryApp/View/People/PeopleDirectoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "7ECDE4D0-8C8F-4157-8CBD-BA00B1663A12 - 89c2df4e9eac8d88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryApp.PeopleDirectoryViewController.jobTitleLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddulakshmikeerthana/Documents/InTerView/DirectoryApp/DirectoryApp/View/People/PeopleDirectoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7ECDE4D0-8C8F-4157-8CBD-BA00B1663A12 - 92558c1e3dba6f77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryApp.PeopleDirectoryViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DirectoryApp.PeopleDirectoryViewController"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddulakshmikeerthana/Documents/InTerView/DirectoryApp/DirectoryApp/View/People/PeopleDirectoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "7ECDE4D0-8C8F-4157-8CBD-BA00B1663A12 - 4c1435f3e5f97316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryApp.PeopleDirectoryViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DirectoryApp.PeopleDirectoryViewController&gt;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddulakshmikeerthana/Documents/InTerView/DirectoryApp/DirectoryApp/View/People/PeopleDirectoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
